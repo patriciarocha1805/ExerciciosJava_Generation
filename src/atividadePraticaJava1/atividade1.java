@@ -17,7 +17,7 @@ public class atividade1 {
 		
 		novoSalario = salarioAtual + abono;
 		
-		System.out.println("Seu novo salário é " + novoSalario + " reais.");
+		System.out.println("Novo Salário: " + novoSalario + ".");
 		
 		leia.close();
 
