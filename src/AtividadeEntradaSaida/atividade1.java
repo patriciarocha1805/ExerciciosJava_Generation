@@ -1,4 +1,4 @@
-package atividadePraticaJava1;
+package AtividadeEntradaSaida;
 
 import java.util.Scanner;
 
